@@ -4,7 +4,7 @@
 	2. Do mvn install  
 	3. Start the application (It starts on default port 8080)  
 	4. Open postman and hit following GET endpoint "http://localhost:8080/rest/books" with following request body:  
-			```
+			
 			
 			{
 			book(id:"1001"){
@@ -13,4 +13,4 @@
 				}
 			}
 			
-			```
+			
